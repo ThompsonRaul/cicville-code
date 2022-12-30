@@ -1,0 +1,1 @@
+efeito_fade = true;

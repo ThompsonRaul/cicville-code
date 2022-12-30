@@ -1,0 +1,1 @@
+verificaMovimentacaoNPC(vel);

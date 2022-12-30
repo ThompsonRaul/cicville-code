@@ -1,0 +1,2 @@
+//despausar
+pausa = false
