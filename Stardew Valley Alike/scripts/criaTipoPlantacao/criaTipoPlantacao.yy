@@ -5,7 +5,7 @@
   "isDnD": false,
   "isCompatibility": false,
   "parent": {
-    "name": "Scripts",
-    "path": "folders/Scripts.yy",
+    "name": "4 - Plantação",
+    "path": "folders/Scripts/4 - Plantação.yy",
   },
 }

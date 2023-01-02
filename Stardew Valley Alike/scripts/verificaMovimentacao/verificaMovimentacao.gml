@@ -109,7 +109,7 @@ function verificaMovimentacao(vel){
 										obj_npc_pai, false, false);
 			if(inst != noone){
 				with(inst){
-					var tbox = cria_textbox(texto, falantes, prox_linha);
+					var tbox = cria_textbox(texto, falantes, prox_linha, scripts);
 					pode_mover = false;
 					movX = 0;
 					movY = 0;

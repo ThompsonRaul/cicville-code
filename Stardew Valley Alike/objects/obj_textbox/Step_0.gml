@@ -3,6 +3,9 @@ if(keyboard_check_pressed(tecla_interacao)){
 		cont = str_tam;
 	}
 	else if(txt_indice < array_length(texto) - 1){
+		event_perform(ev_other, ev_user2);
+		
+		
 		var linha = prox_linha[txt_indice];
 		if(escolha_dialogo){
 			linha = linha[escolha];

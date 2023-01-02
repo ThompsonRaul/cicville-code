@@ -22,4 +22,3 @@ texto = ["COEEEEEEEEEEEE",
 		];
 falantes = [id, obj_player_tomso, id, id];
 prox_linha = [0, [2, 3], -1, -1];
-

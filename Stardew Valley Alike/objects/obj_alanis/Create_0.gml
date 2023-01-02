@@ -19,3 +19,4 @@ voz = snd_voice3;
 nome = "Alanis";
 texto = ["Oi, Tomso, como cê tá?", "Bemmm, e você?", "Tô bem também! Bom dia pra plantar, né?"];
 falantes = [id, obj_player_tomso, id];
+prox_linha = [0, 2, -1];
